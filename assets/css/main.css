@@ -46,7 +46,7 @@ button:focus,
 }
 
 a:hover {
-  color: #4E6EF1;
+  color: #32a9b2;
 }
 
 a {
@@ -170,7 +170,7 @@ p {
   z-index: 5;
   transition: all .4s ease-in-out;
   border: none;
-  background: #4E6EF1;
+  background: #32a9b2;
   overflow: hidden;
 }
 
@@ -179,7 +179,7 @@ p {
 }
 
 .main-btn.border-btn {
-  border: 2px solid #4E6EF1;
+  border: 2px solid #32a9b2;
   background: transparent;
   color: #313450;
 }
@@ -211,7 +211,7 @@ p {
 .scroll-top {
   width: 45px;
   height: 45px;
-  background: #4E6EF1;
+  background: #32a9b2;
   display: none;
   justify-content: center;
   align-items: center;
@@ -317,7 +317,7 @@ p {
   height: 100%;
   border-style: solid;
   /* Spinner Color */
-  border-color: #4E6EF1 #4E6EF1 #ddd;
+  border-color: #32a9b2 #32a9b2 #ddd;
   border-radius: 50%;
   border-width: 6px;
 }
@@ -538,7 +538,7 @@ p {
   left: auto;
   width: 0;
   height: 2px;
-  background: #4E6EF1;
+  background: #32a9b2;
   z-index: -1;
   opacity: 0;
   border-radius: 10px;
@@ -546,7 +546,7 @@ p {
 }
 
 .navbar-nav .nav-item a:hover, .navbar-nav .nav-item a.active {
-  color: #4E6EF1;
+  color: #32a9b2;
 }
 
 .navbar-nav .nav-item a:hover::before, .navbar-nav .nav-item a.active::before {
@@ -620,7 +620,7 @@ p {
 
 .navbar-nav .nav-item .sub-menu li a.active, .navbar-nav .nav-item .sub-menu li a:hover {
   padding-left: 25px;
-  color: #4E6EF1;
+  color: #32a9b2;
 }
 
 .navbar-nav .sub-nav-toggler {
@@ -703,9 +703,8 @@ p {
 }
 
 .hero-section .hero-content span {
-  font-family: "Archivo Black", sans-serif;
   font-size: 30px;
-  color: #4E6EF1;
+  color: #32a9b2;
   margin-bottom: 20px;
 }
 
@@ -884,7 +883,7 @@ p {
 }
 
 .service-section .single-service:hover .icon.color-2 {
-  background: #4E6EF1;
+  background: #32a9b2;
 }
 
 .service-section .single-service:hover .icon.color-3 {
@@ -946,7 +945,7 @@ p {
   height: 80px;
   border-radius: 10px;
   margin-bottom: 20px;
-  color: #4E6EF1;
+  color: #32a9b2;
   font-size: 42px;
 }
 
@@ -1044,7 +1043,7 @@ p {
 }
 
 .footer .widget-wrapper .footer-widget ul li a:hover {
-  color: #4E6EF1;
+  color: #32a9b2;
   padding-left: 7px;
 }
 
